@@ -1,0 +1,21 @@
+food
+pizza
+french fries
+peaches
+oranges
+strawberries
+lemons
+butter
+cookies
+icecream
+noodles
+rice
+tofu
+chicken
+meat
+pork
+fish
+shrimp
+grain
+bread
+milk
